@@ -1,2 +1,2 @@
 # CodebarreScanner
-Une application web permettant de scanner des codes barres pour des testes sur des logiciels destop 
+Une application web permettant de scanner des codes barres pour des testes sur des logiciels desktops 
